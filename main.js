@@ -1,4 +1,4 @@
-document.getElementById('time').innerHTML = new Date().toLocaleString() //현재웹문서를 나타냄
+document.getElementById('time').innerHTML = new Date().toLocaleString() //현재웹문서를 나타냄.
 
 function pink() {
   document.body.style.backgroundColor = 'pink'

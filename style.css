@@ -31,7 +31,7 @@ body {
 .navbar .container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between; /*정렬 기능*/
+  justify-content: space-between; /*정렬 기능.*/
   align-items: center; /*세로 정렬*/
   height: 100%;
 }
