@@ -58,7 +58,7 @@ body {
 }
 
 .navbar a:hover {
-  border-bottom: 2px yellow solid; /*마우스 올라갔을 때 반응하게 하는 함수 */
+  border-bottom: 2px yellow solid; /*마우스 올라갔을 때 반응하게 하는 함수*/
   color: yellow;
 }
 
